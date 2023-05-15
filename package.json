@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest --config={} jest.test.js"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "license": "MIT"
+}
